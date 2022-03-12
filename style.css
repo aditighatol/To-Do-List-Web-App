@@ -106,7 +106,7 @@ body {
 
 .completed {
     top: 25%;
-    bottom: 23%;
+    bottom: 27%;
     right: 18%;
 }
 
@@ -114,7 +114,7 @@ body {
     background-color: red;
     justify-self: flex-end;
     top: 25%;
-    bottom: 23%;
+    bottom: 27%;
     right: 5%;
 }
 
