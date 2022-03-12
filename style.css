@@ -105,16 +105,11 @@ body {
 }
 
 .completed {
-    top: 25%;
-    bottom: 27%;
     right: 18%;
 }
 
 .removeItem {
     background-color: red;
-    justify-self: flex-end;
-    top: 25%;
-    bottom: 27%;
     right: 5%;
 }
 
