@@ -80,7 +80,7 @@ body {
 
 .myTask {
     width: 100%;
-    padding: 0.5rem 0.5rem 0.5rem 1.5rem;
+    padding: 0.5rem 20% 0.5rem 1rem;
     display: flex;
     align-items: center;
     background-color: #123;
@@ -105,12 +105,12 @@ body {
 }
 
 .completed {
-    right: 18%;
+    right: 14%;
 }
 
 .removeItem {
     background-color: red;
-    right: 5%;
+    right: 3%;
 }
 
 .finish {
